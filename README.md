@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cahya Winata</h1>
-<h3 align="center">A passionate fullstack-developer from Indonesia</h3>
+<h3 align="center">A fullstack-developer from Indonesia</h3>
 
 - ✨ Creating bugs since 2023
 
-- 🌱 I’m currently learning **Laravel, React, TailwindCSS**
+- 🌱 I’m currently using **Laravel, React, Node.js, TailwindCSS**
 
 - 📫 How to reach me **cahyawinata1212@gmail.com**
 
